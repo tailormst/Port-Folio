@@ -1,4 +1,4 @@
-body{
+body {
     width: 100%;
     background-color: white;
 }
@@ -363,32 +363,34 @@ footer {
     /* margin-right: 40%; */
 }
 
-.foot-container, .left-foot, .right-foot{
+.foot-container,
+.left-foot,
+.right-foot {
     display: inline-block;
 }
 
-footer h4{
-    font-family:Georgia, 'Times New Roman', Times, serif;
+footer h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 23px;
     font-weight: bold;
 }
 
-.right-foot{
+.right-foot {
     padding-left: 300px;
 }
 
-.right-foot .foot-link a img{
+.right-foot .foot-link a img {
     padding: 0;
     display: flexbox;
     flex-direction: row;
     justify-content: space-between;
 }
 
-hr{
+hr {
     margin-right: 14%;
 }
 
-.copyright{
+.copyright {
     text-align: center;
     padding: 50px;
 }
