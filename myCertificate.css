@@ -1,9 +1,8 @@
-
-body{
+body {
     background-color: #a8a7a7;
 }
 
-header{
+header {
     background-color: black;
     color: white;
     width: 100%;
@@ -11,13 +10,18 @@ header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
 }
-.head , .cert, .home{
+
+.head,
+.cert,
+.home {
     display: inline-block;
 }
-.head h1{
+
+.head h1 {
     padding-left: 150px;
 }
-.home a{
+
+.home a {
     text-decoration: none;
     color: white;
     font-size: 22px;
@@ -25,18 +29,20 @@ header{
     margin-left: 800px;
 }
 
-.for-table{
+.for-table {
     width: 50%;
     margin-left: 25%;
     text-align: center;
     color: black;
     background-color: #fafafa;
 }
-table{
+
+table {
     margin-top: 150px;
     text-align: center;
 }
-table td{
+
+table td {
     padding: 20px;
 }
 
